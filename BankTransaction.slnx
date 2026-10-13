@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../../../../../../../../Projetcs/myprojects/BankTransaction/src/Bank.Gateway/Bank.Gateway.Api/Bank.Gateway.Api.csproj" Id="f0713dff-aad4-44db-acf4-d657fe7490d7" />
+    <Project Path="../../../../../../../../Projetcs/myprojects/BankTransaction/src/Bank.Transaction/Bank.Transaction.Api/Bank.Transaction.Api.csproj" Id="b03595e6-9a8c-4347-bafe-f9e870aca140" />
+  </Folder>
+</Solution>
