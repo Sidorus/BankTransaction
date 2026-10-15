@@ -3,5 +3,7 @@
     <Project Path="src/Bank.Balance.Api/Bank.Balance.Api.csproj" Id="42302f56-244a-41e2-a375-ca0851546d3e" />
     <Project Path="src/Bank.Gateway/Bank.Gateway.Api/Bank.Gateway.Api.csproj" Id="f0713dff-aad4-44db-acf4-d657fe7490d7" />
     <Project Path="src/Bank.Transaction/Bank.Transaction.Api/Bank.Transaction.Api.csproj" Id="b03595e6-9a8c-4347-bafe-f9e870aca140" />
+    <Project Path="src/Bank.Transfer.Api/Bank.Transfer.Api.csproj" Id="45309e89-61fd-407b-a23f-3bafd4b99b1c" />
   </Folder>
+  <Project Path="src/Bank.Notification.Api/Bank.Notification.Api.csproj" Id="3fb2eb83-f1c8-4bf1-9393-4d743a1c195d" />
 </Solution>
